@@ -1,0 +1,10 @@
+.carousel-slide-bg {
+    height: 500px;    
+    background-size: cover;    
+    background-position: center;    
+    background-repeat: no-repeat;
+    padding: 0 1rem;    
+    }   
+    .carousel-slide-bg .container {    
+    max-width: 700px;    
+    }
